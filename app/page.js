@@ -7,7 +7,7 @@ export default function Home() {
     <main class='flex justify-center items-center min-h-screen bg-customDarkBlack'>
       <div class='flex justify-center items-center flex-col bg-customBlack px-8 py-9 rounded-md'>
         <div>
-          <Image class='rounded-full' src='/avatar-jessica.jpeg' width={100} height={100}  alt=''/>
+          <Image class='rounded-full' src='./avatar-jessica.jpeg' width={100} height={100}  alt=''/>
         </div>
         <div class='flex flex-col justify-center items-center mt-6'>
           <h1 class='text-white font-custom font-semibold text-xl'>Jessica Randall</h1>
