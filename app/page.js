@@ -12,7 +12,7 @@ export default function Home() {
         <div class='flex flex-col justify-center items-center mt-6'>
           <h1 class='text-white font-custom font-semibold text-xl'>Jessica Randall</h1>
           <h2 class='text-customGreen font-custom font-medium text-sm mt-1'>London United Kingdom</h2>
-          <h2 className='font-custom mt-3 text-sm'>&quot;Front-end developer and avid reader.&quot;</h2>
+          <h2 className='font-custom mt-3 text-sm text-white'>&quot;Front-end developer and avid reader.&quot;</h2>
         </div>
         <div class='flex flex-col justify-center items-center space-y-2  mt-6'>
           <Button>GitHub</Button>
