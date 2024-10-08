@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/the-profile-badge',  // Projenizin GitHub repo adıyla değiştirmelisiniz
-  assetPrefix: '/the-profile-badge/',  // Aynı şekilde repo adınızı yazmalısınız
+  basePath: '/the-profile-badge',
+  assetPrefix: '/the-profile-badge/',
 };
 
 module.exports = nextConfig;
